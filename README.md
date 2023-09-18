@@ -1,4 +1,6 @@
 You can ignore button.js all of the button information is in App.js and you will neeed the styled components package
+https://styled-components.com/
+npm intall styled-components
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
